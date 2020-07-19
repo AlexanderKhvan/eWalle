@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MenuViewController.callMenu(fromVC:):MenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "screenSize.height * scaled">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainCollectionDataSource.setUserBalance(_:):MainCollectionDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "balanceCell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
