@@ -9,8 +9,8 @@
 import Foundation
 
 class DataStores {
-    var globalDataStore: GlobalDataStore = GlobalDataStore()
+    lazy var globalDataStore: GlobalDataStore = GlobalDataStore()
     
-    var entranceDataStore: EntranceDataStore = EntranceDataStore()
-    var mainDataStore: MainDataStore = MainDataStore()
+    lazy var entranceDataStore: EntranceDataStore = EntranceDataStore()
+    lazy var mainDataStore: MainDataStore = MainDataStore()
 }
